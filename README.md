@@ -65,9 +65,6 @@ Untuk lebih menyempurnakan program ini, berikut beberapa saran pengembangan:
 4. Menambahkan fitur penanganan denda keterlambatan pengembalian buku.
 5. Meningkatkan fitur pencarian dengan kemampuan pencarian lanjutan.
 6. Mengembangkan fitur laporan dan statistik yang lebih lengkap.
-7. Menambahkan lapisan keamanan untuk melindungi data sensitif.
-8. Memungkinkan integrasi dengan sistem informasi akademik atau sistem manajemen perpustakaan lainnya.
-9. Mengembangkan API untuk memungkinkan pengembangan aplikasi mobile atau web yang terhubung dengan sistem ini.
 
 #### Lisensi
 
